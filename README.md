@@ -1,5 +1,7 @@
 # Getting Started with Create React App
-
+This app is made using react having two main components 
+one is header and other is todo
+the backend is supported with firebase api
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
